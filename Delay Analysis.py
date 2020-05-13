@@ -131,13 +131,13 @@ def plot_histogram(data_arr, airport_code):
 
 
 '''
-CREATES A TABLE OF SUMMARY STATTISTICS OF AIRPORT DELAYS AND SAVES IT AS A CSV
+CREATES A TABLE OF SUMMARY STATISTICS OF AIRPORT DELAYS AND SAVES IT AS A CSV.
 '''
 print(convert_to_dataframe(calculate_statistics(groupby_delays())))
 
 
 '''
-CREATES A HISTOGRAM OF AVERAGE DELAYS OF A GIVEN AIRPROT
+CREATES A HISTOGRAM OF AVERAGE DELAYS OF A GIVEN AIRPORT
 '''
 airport = 'TTN'
 plot_histogram(groupby_delays()[airport],airport)
