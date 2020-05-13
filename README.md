@@ -31,4 +31,4 @@ Trenton-Mercer Airport had the highest average departure delay of 39.76 minutes 
 
 
 Yakutat Airport had the lowest average departure delay of -8.77 minutes with only 6.8% of flights being delayed by 30 minutes or more. It can be seen that a large percentage of flights out of Yakutat airport leave on time. In fact, 84.06% of departing flights out of Yakutat leave early or depart on time. This explains the negative average departure delay.
-![Example Output](YAK.PNG)
+![YAK](YAK.PNG)
