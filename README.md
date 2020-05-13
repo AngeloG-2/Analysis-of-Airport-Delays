@@ -27,12 +27,12 @@ pandas is an incredibly powerful library that provides convenient functionality 
 
 The Results
 --------------------------
-Trenton-Mercer Airport had the highest average departure delay of 39.76 minutes with 34% of flights being delayed by 30 minutes or more. It can be seen that a large percentage of flights departing from Trenton-Mercer leave late. In fact, 47% of flights departing from Trenton-Mercer are delayed 10 minutes or more.
+Trenton-Mercer Airport (TTN) had the highest average departure delay of 39.76 minutes with 34% of flights being delayed by 30 minutes or more. It can be seen that a large percentage of flights departing from Trenton-Mercer leave late. In fact, 47% of flights departing from Trenton-Mercer are delayed 10 minutes or more.
 
 
 
 
-Yakutat Airport had the lowest average departure delay of -8.77 minutes with only 6.8% of flights being delayed by 30 minutes or more. It can be seen that a large percentage of flights out of Yakutat airport leave on time. In fact, 84.06% of departing flights out of Yakutat leave early or depart on time. This explains the negative average departure delay.
+Yakutat Airport (YAK) had the lowest average departure delay of -8.77 minutes with only 6.8% of flights being delayed by 30 minutes or more. It can be seen that a large percentage of flights out of Yakutat airport leave on time. In fact, 84.06% of departing flights out of Yakutat leave early or depart on time. This explains the negative average departure delay.
 
 
 
