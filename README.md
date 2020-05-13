@@ -25,7 +25,7 @@ The Results
 --------------------------
 Trenton-Mercer Airport had the highest average departure delay of 39.76 minutes with 34% of flights being delayed by 30 minutes or more. It can be seen that a large percentage of flights departing from Trenton-Mercer leave late. In fact, 47% of flights departing from Trenton-Mercer are delayed 10 minutes or more.
 
-![Example Output](TTN.PNG)
+![TTN](TTN.PNG)
 
 
 
