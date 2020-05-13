@@ -1,6 +1,8 @@
 The Goal of the Project
 --------------------------
-Determine the airpots with highest and lowest average delays.
+1. Determine the airpots with highest and lowest average delays
+
+2. Determine the relationship between the average delay of an airport and the number of flights.
 
 
 The Dataset
@@ -32,3 +34,6 @@ Trenton-Mercer Airport had the highest average departure delay of 39.76 minutes 
 
 Yakutat Airport had the lowest average departure delay of -8.77 minutes with only 6.8% of flights being delayed by 30 minutes or more. It can be seen that a large percentage of flights out of Yakutat airport leave on time. In fact, 84.06% of departing flights out of Yakutat leave early or depart on time. This explains the negative average departure delay.
 ![YAK](YAK.PNG)
+
+
+The Pearson’s correlation coefficient is 0.0698 suggesting a very-weak positive correlation between the number of flights per year and the average delay. This suggests that the busyness of an airport does not affect the average delay in an airport. If look at airports with less than 8000 flights, we see a wide range of average delays. Average departure delay may depend on how effective airports scale their operations with increasing number of flights and passengers.
