@@ -19,11 +19,11 @@ Motivations of using csvreader rather than pandas
 -------------------------
 Given the size large size of the dataset (5.82 million rows) and the hardware limitations of my laptop, I chose to use csv module of python to read the data.
 
-It turns that python's csvreader reads files increadibly fast and is memory efficient. Howwver, csv reader requires more coding unlike pandas.
+It turns that python's csvreader reads files incredibly fast and is memory efficient. However, csv reader requires more coding, unlike pandas.
 
-When utilizing pandas for larger datasets, my memory ran out and it took 50 seconds to 70 seconds to read the file. While the implmentation with csv reader read the file, calculated summary statistics, and plotted histogram in 10 - 15 seconds max. 
+When utilizing pandas for larger datasets, my memory ran out, and it took 50 seconds to 70 seconds to read the file. While the implementation with csv reader read the file, calculated summary statistics, and plotted histogram in 10 - 15 seconds max. 
 
-pandas is an incredibly powerful library that provides convinient functionality when working with data; howver, my laptop is too slow to utilize the library with large datasets.
+pandas is an incredibly powerful library that provides convenient functionality when working with data; however, my laptop is too slow to utilize the library with large datasets.
 
 The Results
 --------------------------
