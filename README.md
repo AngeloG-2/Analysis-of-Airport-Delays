@@ -11,7 +11,7 @@ The dataset is obtained from: https://www.kaggle.com/usdot/flight-delays
 
 For this project, I will only be using the departure delay column and the airport column.
 
-Number of columns: 5.82 MILLION 
+Number of rows: 5.82 MILLION 
 
 
 
